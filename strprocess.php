@@ -25,7 +25,7 @@
     } else {
       echo "<p>Please enter a string containing only letters or space.</p>";
     }
-  } else {
+  } else { 
     echo "<p>Please enter string from the input form.</p>"; // no input
   }
 ?>
